@@ -1,0 +1,19 @@
+Dear David and Paulo,
+
+ 
+
+Many thanks for the confirmation of my spot in the course.
+
+ 
+
+Attached is an example dataset, of the type of data I usually use for fisheries research. 
+The original datasets are very large and have confidentially issues for sharing. As such, 
+this is a subset of part of the data only, but that should be sufficient to show and 
+experiment with during the course.
+
+The dataset is already a little bit processed, with some additional variables that were 
+calculated and added (in this case in R). For this  type of data, the variables SWO.cpue 
+and BUM.cpue would be response variables, while the others are potential explanatory 
+covariates used for building statistical models.
+
+
