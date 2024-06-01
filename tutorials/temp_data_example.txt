@@ -1,0 +1,13 @@
+Month,Temperature
+January,5.0
+February,6.1
+March,10.2
+April,15.3
+May,20.4
+June,25.5
+July,30.6
+August,29.7
+September,24.8
+October,18.9
+November,10.0
+December,5.1

@@ -1,3 +1,12 @@
+# Content
+
+* Introducing Jupyterlab Notebooks.
+* No code algorithmic thinking ([Bebras](https://bebras.pt/)).
+* Your first program in one cell.
+* Variables and data types
+
+Solution to exercises can be found in separate NB in `tutorials/solutions_all.ipynb`.
+
 ## Notebooks
 
 |   | Run | Run | View |
