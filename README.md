@@ -41,5 +41,5 @@ Inspiration and structure how to create great open-source course has been taken 
 
 [Neuromatch academy DL course](https://github.com/NeuromatchAcademy/course-content-dl)
 
-Each tutorial can be opened in binder or colab if you navigate through the folders.
+Each tutorial can be opened in binder or colab if you navigate through the folders. Solution to exercises can be found in separate NB in `tutorials/solutions_all.ipynb`.
 
