@@ -1,3 +1,5 @@
+# Program
+## Module I: Total of 16 hours (3x coffee breaks in the afternoon) 
     3.6.
     11:30 - 12:30 Help with python setup (optional for those who wish to run codes locally on their machines). 
     14:00 - 17:30, algorithmic thinking, variables, data types. 
@@ -10,7 +12,7 @@
     10:00 – 12:30, modules, class attributes/methods, scripts, matplotlib. 
     14:00 - 17:30 NumPy 
 
-Module II: Total of 11 hours (2x coffee breaks in the afternoon). 
+## Module II: Total of 11 hours (2x coffee breaks in the afternoon). 
 
     6.6.
     10:00 – 12:30, pandas, exploratory analysis, data cleaning. 
