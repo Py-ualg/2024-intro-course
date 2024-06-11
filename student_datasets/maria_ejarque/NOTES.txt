@@ -1,6 +1,0 @@
-I attached to this email part of the data (in .xlsx and .csv formats). 
-I coded some variables in "dummy variables", because it is qualitative 
-data from multi-response questions. Is it better to let them coded in 
-0 or 1, or in characters, for the course?
-
-Looking forward to the Python course!
